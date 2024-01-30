@@ -1,7 +1,8 @@
 
 # Hi there 👋
 ## My name's Tanmay Shekhar!
-![Github_Banner](https://github.com/tanmayshekhar07/tanmayshekhar07/assets/81084072/b91497b0-5d77-47c8-a4b5-9a92bd76a16d)
+![Navy And White Geometric Technology  LinkedIn Banner](https://github.com/tanmayshekhar07/tanmayshekhar07/assets/81084072/762f664b-8c2c-41b0-802e-37b6e7373c31)
+
  
 # 💫 About Me:
 🔭 I'm currently working on my portfolio to show case my skills and projects.<br>🤝 I'm open to collaborating on Data Science/Analytics projects.<br>⚡ Fun Fact: I'm a coffee lover and cannot even think about starting my day without a cup.
